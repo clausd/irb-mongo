@@ -1,8 +1,12 @@
-= irb-mason
+= irb-mongo
 
-Description goes here.
+A really simple gem - to provide an always there ambient mongo object in .irbrc
 
-== Contributing to irb-mason
+mongo.my_collection.insert({someobject})
+and so on
+
+
+== Contributing to irb-mongo
  
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
@@ -14,6 +18,6 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2014 clausd. See LICENSE.txt for
+Copyright (c) 2014 Claus Dahl. See LICENSE.txt for
 further details.
 
